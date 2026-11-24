@@ -1,0 +1,292 @@
+[
+  {
+    "event_id": "evt_dub_001",
+    "title": "Adult Literacy & Digital Skills Drop-In",
+    "description": "Free one-on-one support for adults looking to improve reading, writing, or everyday smartphone and laptop skills. Tea and biscuits provided.",
+    "category": "Education & Skills",
+    "partner_organization": {
+      "partner_id": "org_101",
+      "name": "Northside Community Learning Hub",
+      "contact_email": "info@northsidelearninghub.example.ie"
+    },
+    "datetime": {
+      "start": "2026-11-24T10:30:00Z",
+      "end": "2026-11-24T12:30:00Z",
+      "recurrence": "weekly"
+    },
+    "location": {
+      "venue_name": "Coolock Library & Community Room",
+      "address": "Barryscourt Road, Coolock, Dublin 17",
+      "eircode": "D17 Y262",
+      "area": "North Dublin",
+      "coordinates": {
+        "lat": 53.3905,
+        "lng": -6.2016
+      }
+    },
+    "capacity": 20,
+    "is_free": true,
+    "accessibility": ["Wheelchair Accessible", "Hearing Loop"]
+  },
+  {
+    "event_id": "evt_dub_002",
+    "title": "Liffey Boardwalk Community Clean-Up",
+    "description": "Join local volunteers for a morning litter pick along the riverfront. Pickers, gloves, and high-vis vests supplied at the meeting point.",
+    "category": "Environment & Volunteering",
+    "partner_organization": {
+      "partner_id": "org_102",
+      "name": "Clean Coasts & Rivers Dublin",
+      "contact_email": "volunteers@cleancoastsdublin.example.ie"
+    },
+    "datetime": {
+      "start": "2026-11-28T10:00:00Z",
+      "end": "2026-11-28T12:00:00Z",
+      "recurrence": "monthly"
+    },
+    "location": {
+      "venue_name": "Ha'penny Bridge South Plaza",
+      "address": "Wellington Quay, Temple Bar, Dublin 2",
+      "eircode": "D02 X283",
+      "area": "City Centre",
+      "coordinates": {
+        "lat": 53.3463,
+        "lng": -6.2631
+      }
+    },
+    "capacity": 40,
+    "is_free": true,
+    "accessibility": ["Step-Free Access"]
+  },
+  {
+    "event_id": "evt_dub_003",
+    "title": "Chair Yoga & Mobility for Active Seniors",
+    "description": "Gentle, low-impact seated and standing stretches designed to improve balance, joint mobility, and relaxation for adults aged 60+.",
+    "category": "Health & Wellbeing",
+    "partner_organization": {
+      "partner_id": "org_103",
+      "name": "South Dublin Active Age Network",
+      "contact_email": "hello@sdactiveage.example.ie"
+    },
+    "datetime": {
+      "start": "2026-11-25T14:00:00Z",
+      "end": "2026-11-25T15:00:00Z",
+      "recurrence": "weekly"
+    },
+    "location": {
+      "venue_name": "Rathmines Town Hall Community Space",
+      "address": "Rathmines Road Lower, Dublin 6",
+      "eircode": "D06 N264",
+      "area": "South Dublin",
+      "coordinates": {
+        "lat": 53.3245,
+        "lng": -6.2654
+      }
+    },
+    "capacity": 25,
+    "is_free": true,
+    "accessibility": ["Wheelchair Accessible", "Accessible Restrooms"]
+  },
+  {
+    "event_id": "evt_dub_004",
+    "title": "Repair Café: Small Appliances & Textiles",
+    "description": "Bring broken toasters, lamps, bicycles, or torn winter coats and learn how to fix them alongside volunteer repair coaches.",
+    "category": "Sustainability & Makers",
+    "partner_organization": {
+      "partner_id": "org_104",
+      "name": "Dublin 8 Circular Makers",
+      "contact_email": "fixit@d8makers.example.ie"
+    },
+    "datetime": {
+      "start": "2026-11-29T11:00:00Z",
+      "end": "2026-11-29T15:00:00Z",
+      "recurrence": "monthly"
+    },
+    "location": {
+      "venue_name": "Richmond Barracks Community Hall",
+      "address": "Off Bulfin Road, Inchicore, Dublin 8",
+      "eircode": "D08 YY05",
+      "area": "West Dublin",
+      "coordinates": {
+        "lat": 53.3396,
+        "lng": -6.3168
+      }
+    },
+    "capacity": 50,
+    "is_free": true,
+    "accessibility": ["Wheelchair Accessible", "Bike Parking"]
+  },
+  {
+    "event_id": "evt_dub_005",
+    "title": "Ciorcal Comhrá (Informal Irish Conversation Group)",
+    "description": "Practice your cúpla focal in a relaxed, welcoming setting. All levels welcome, from complete beginners to fluent speakers.",
+    "category": "Arts & Culture",
+    "partner_organization": {
+      "partner_id": "org_105",
+      "name": "Pobal Gaeilge Bhaile Átha Cliath",
+      "contact_email": "failte@pobalgaeilgedublin.example.ie"
+    },
+    "datetime": {
+      "start": "2026-11-26T18:30:00Z",
+      "end": "2026-11-26T20:00:00Z",
+      "recurrence": "weekly"
+    },
+    "location": {
+      "venue_name": "Pearse Street Library Meeting Room",
+      "address": "138-144 Pearse Street, Dublin 2",
+      "eircode": "D02 HE37",
+      "area": "City Centre",
+      "coordinates": {
+        "lat": 53.3435,
+        "lng": -6.2442
+      }
+    },
+    "capacity": 30,
+    "is_free": true,
+    "accessibility": ["Wheelchair Accessible"]
+  },
+  {
+    "event_id": "evt_dub_006",
+    "title": "Parent & Toddler Sensory Play Morning",
+    "description": "Interactive music, storytelling, and sensory play stations for children aged 0–3 and their parents or guardians.",
+    "category": "Family & Youth",
+    "partner_organization": {
+      "partner_id": "org_106",
+      "name": "Ballymun Family Resource Centre",
+      "contact_email": "support@ballymunfrc.example.ie"
+    },
+    "datetime": {
+      "start": "2026-11-27T10:00:00Z",
+      "end": "2026-11-27T11:30:00Z",
+      "recurrence": "weekly"
+    },
+    "location": {
+      "venue_name": "Axis Ballymun Community Studio",
+      "address": "Main Street, Ballymun, Dublin 9",
+      "eircode": "D09 Y9W0",
+      "area": "North Dublin",
+      "coordinates": {
+        "lat": 53.3931,
+        "lng": -6.2651
+      }
+    },
+    "capacity": 35,
+    "is_free": true,
+    "accessibility": ["Buggy Parking", "Wheelchair Accessible", "Baby Changing Facilities"]
+  },
+  {
+    "event_id": "evt_dub_007",
+    "title": "Free Legal & Housing Advice Clinic",
+    "description": "Confidential 20-minute consultations with volunteer solicitors covering tenancy rights, social welfare entitlements, and employment law.",
+    "category": "Advice & Support",
+    "partner_organization": {
+      "partner_id": "org_107",
+      "name": "Tallaght Community Law & Advocacy",
+      "contact_email": "clinics@tallaghtadvocacy.example.ie"
+    },
+    "datetime": {
+      "start": "2026-12-01T17:30:00Z",
+      "end": "2026-12-01T19:30:00Z",
+      "recurrence": "biweekly"
+    },
+    "location": {
+      "venue_name": "Rua Red South Dublin Arts Centre",
+      "address": "Blessington Road, Tallaght, Dublin 24",
+      "eircode": "D24 KV8N",
+      "area": "South West Dublin",
+      "coordinates": {
+        "lat": 53.2869,
+        "lng": -6.3736
+      }
+    },
+    "capacity": 18,
+    "is_free": true,
+    "accessibility": ["Wheelchair Accessible", "Private Consultation Rooms"]
+  },
+  {
+    "event_id": "evt_dub_008",
+    "title": "Teen Coding & Robotics Club",
+    "description": "Hands-on introduction to Python and Raspberry Pi sensors for teenagers aged 13–17. Laptops are provided on site.",
+    "category": "Family & Youth",
+    "partner_organization": {
+      "partner_id": "org_108",
+      "name": "Dún Laoghaire Youth Tech Collective",
+      "contact_email": "mentors@dlyouthtech.example.ie"
+    },
+    "datetime": {
+      "start": "2026-12-05T14:00:00Z",
+      "end": "2026-12-05T16:00:00Z",
+      "recurrence": "weekly"
+    },
+    "location": {
+      "venue_name": "dlr LexIcon Studio",
+      "address": "Haigh Terrace, Moran Park, Dún Laoghaire, Co. Dublin",
+      "eircode": "A96 H283",
+      "area": "South East Dublin",
+      "coordinates": {
+        "lat": 53.2925,
+        "lng": -6.1336
+      }
+    },
+    "capacity": 24,
+    "is_free": true,
+    "accessibility": ["Wheelchair Accessible", "Near DART Station"]
+  },
+  {
+    "event_id": "evt_dub_009",
+    "title": "Winter Allotment & Composting Workshop",
+    "description": "Learn how to prepare raised beds for winter, build a cold frame, and turn kitchen scraps into nutrient-rich compost.",
+    "category": "Environment & Volunteering",
+    "partner_organization": {
+      "partner_id": "org_109",
+      "name": "Glasnevin Urban Growers",
+      "contact_email": "grow@glasnevingrowers.example.ie"
+    },
+    "datetime": {
+      "start": "2026-12-06T11:00:00Z",
+      "end": "2026-12-06T13:00:00Z",
+      "recurrence": "none"
+    },
+    "location": {
+      "venue_name": "Griffith Park Community Garden",
+      "address": "Drumcondra Road Upper, Dublin 9",
+      "eircode": "D09 X9P2",
+      "area": "North Dublin",
+      "coordinates": {
+        "lat": 53.3712,
+        "lng": -6.2564
+      }
+    },
+    "capacity": 20,
+    "is_free": true,
+    "accessibility": ["Outdoor Uneven Terrain"]
+  },
+  {
+    "event_id": "evt_dub_010",
+    "title": "Newcomers & International Coffee Social",
+    "description": "A friendly social gathering for people who have recently moved to Dublin to meet neighbors, practice English, and learn about local services.",
+    "category": "Social & Integration",
+    "partner_organization": {
+      "partner_id": "org_110",
+      "name": "Dublin Welcomes Integration Network",
+      "contact_email": "connect@dublinwelcomes.example.ie"
+    },
+    "datetime": {
+      "start": "2026-12-03T18:00:00Z",
+      "end": "2026-12-03T19:30:00Z",
+      "recurrence": "weekly"
+    },
+    "location": {
+      "venue_name": "Outhouse Community Centre Café",
+      "address": "105 Capel Street, North City, Dublin 1",
+      "eircode": "D01 R290",
+      "area": "City Centre",
+      "coordinates": {
+        "lat": 53.3491,
+        "lng": -6.2687
+      }
+    },
+    "capacity": 45,
+    "is_free": true,
+    "accessibility": ["Wheelchair Accessible", "Gender-Neutral Restrooms"]
+  }
+]
